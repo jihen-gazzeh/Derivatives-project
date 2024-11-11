@@ -7,4 +7,4 @@ Presenting this solution to a bank, along with a  PowerBI dashboard summarizing 
 
 After successful  negotiations on pricing, we reached an agreement that benefited both the bank and the insurance company. The finalized proposal was well-received, ready to be implemented to effectively mitigate their interest rate risk.
 
-This work was a joint effort with my teammates jihen gazzeh, aoui malek, and Nour Elloumi. Their dedication and invaluable contributions were crucial in tackling the project’s challenges.
+This work was a joint effort with my teammates Takoua Hmidi, aoui malek, and Nour Elloumi. Their dedication and invaluable contributions were crucial in tackling the project’s challenges.
